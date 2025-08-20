@@ -1,4 +1,4 @@
-# 👋 Welcome to the Department of Data Scoence & Analytics!
+# 👋 Welcome to the Department of Data Science & Analytics!
 We are the official GitHub hub of **Department of Data Science & Analytics - Renu Sharma Healthcare and Education Foundation**, focused on:
 - 📊 Data Analytics & Visualization
 - 🤝 Internship Programs
